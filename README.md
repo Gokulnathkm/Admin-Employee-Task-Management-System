@@ -112,7 +112,7 @@ npm start
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Auth
 

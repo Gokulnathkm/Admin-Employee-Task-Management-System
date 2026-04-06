@@ -10,7 +10,7 @@ To design and implement a role-based system where:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React.js
 * **Backend:** Node.js, Express.js
@@ -25,7 +25,7 @@ To design and implement a role-based system where:
 
 * Admin login (default access)
 * View registered employees
-* Approve employee accounts
+* Approve or decline employee accounts
 * Assign tasks to employees
 * Track task progress
 
